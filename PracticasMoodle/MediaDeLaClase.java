@@ -1,3 +1,4 @@
+package PracticasMoodle;
 /*
  * Programa que lee por teclado la nota de los alumnos de una clase
  * y calcula la nota media del grupo.

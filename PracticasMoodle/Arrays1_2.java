@@ -1,3 +1,4 @@
+package PracticasMoodle;
 /*
  * Programa que lea 10 números enteros y los guarde en un array.
  * Calcula y muestra la media de los que estén en las posiciones pares.

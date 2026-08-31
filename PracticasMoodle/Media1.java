@@ -1,3 +1,4 @@
+package PracticasMoodle;
 /*
  * Programa que lea por teclado 10 números enteros
  * y los guarde en un array.

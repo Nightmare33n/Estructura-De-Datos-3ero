@@ -1,3 +1,4 @@
+package PracticasMoodle;
 /*
  * Programa que crea un array de 20 elementos
  * llamado Pares y guarde los 20 primeros

@@ -1,3 +1,4 @@
+package PracticasMoodle;
 // Contar el número de elementos positivos, negativos y ceros de un array de 10 elementos.
 
 import java.util.*;

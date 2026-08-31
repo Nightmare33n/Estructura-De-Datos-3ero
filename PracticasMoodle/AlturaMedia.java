@@ -1,3 +1,4 @@
+package PracticasMoodle;
 /*
  * Leer la altura de N personas y calcular la altura media.
  * Mostrar cuántos hay superiores a la media y cuántos inferiores.
