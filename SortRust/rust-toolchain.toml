@@ -1,0 +1,3 @@
+# Esta computadora no tiene Visual Studio (link.exe), así que se usa el toolchain GNU (MinGW gcc).
+[toolchain]
+channel = "stable-x86_64-pc-windows-gnu"

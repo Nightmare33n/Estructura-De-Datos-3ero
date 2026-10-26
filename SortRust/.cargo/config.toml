@@ -1,0 +1,3 @@
+# Compilar usando todas las instrucciones del procesador de esta computadora (AVX2, etc.)
+[build]
+rustflags = ["-C", "target-cpu=native"]
